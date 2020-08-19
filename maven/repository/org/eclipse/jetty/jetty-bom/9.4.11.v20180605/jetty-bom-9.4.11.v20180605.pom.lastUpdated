@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 20:51:45 CST 2020
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1595508705961
+@default-nexus-aliyun-http\://maven.aliyun.com/nexus/content/groups/public\ class\="hljs-tag">/.lastUpdated=1595508705964
+http\://maven.aliyun.com/nexus/content/groups/public\ class\="hljs-tag">/.error=Could not transfer artifact org.eclipse.jetty\:jetty-bom\:pom\:9.4.11.v20180605 from/to nexus-aliyun (http\://maven.aliyun.com/nexus/content/groups/public class\="hljs-tag">)\: Illegal character in path at index 51\: http\://maven.aliyun.com/nexus/content/groups/public class\="hljs-tag">/org/eclipse/jetty/jetty-bom/9.4.11.v20180605/jetty-bom-9.4.11.v20180605.pom
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1595508155786

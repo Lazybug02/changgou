@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 29 19:33:54 CST 2020
+ribbon-loadbalancer-2.3.0-sources.jar>alimaven=
+ribbon-loadbalancer-2.3.0-javadoc.jar>alimaven=
+ribbon-loadbalancer-2.3.0.jar>alimaven=
+ribbon-loadbalancer-2.3.0.pom>alimaven=

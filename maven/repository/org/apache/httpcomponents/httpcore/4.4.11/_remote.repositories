@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 29 19:35:51 CST 2020
+httpcore-4.4.11.jar>alimaven=
+httpcore-4.4.11-sources.jar>alimaven=
+httpcore-4.4.11.pom>alimaven=
+httpcore-4.4.11-javadoc.jar>alimaven=

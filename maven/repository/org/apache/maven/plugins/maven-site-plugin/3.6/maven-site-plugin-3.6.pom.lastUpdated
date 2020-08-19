@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 20:56:36 CST 2020
+@default-nexus-aliyun-http\://maven.aliyun.com/nexus/content/groups/public\ class\="hljs-tag">/.lastUpdated=1595505995003
+http\://maven.aliyun.com/nexus/content/groups/public\ class\="hljs-tag">/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:pom\:3.6 from/to nexus-aliyun (http\://maven.aliyun.com/nexus/content/groups/public class\="hljs-tag">)\: Illegal character in path at index 51\: http\://maven.aliyun.com/nexus/content/groups/public class\="hljs-tag">/org/apache/maven/plugins/maven-site-plugin/3.6/maven-site-plugin-3.6.pom
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1595508996560

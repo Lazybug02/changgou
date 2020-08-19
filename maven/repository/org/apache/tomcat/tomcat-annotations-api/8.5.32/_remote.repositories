@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 23:39:19 CST 2020
+tomcat-annotations-api-8.5.32.jar>alimaven=
+tomcat-annotations-api-8.5.32.pom>alimaven=
+tomcat-annotations-api-8.5.32-sources.jar>alimaven=

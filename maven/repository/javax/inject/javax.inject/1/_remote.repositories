@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 21:35:03 CST 2020
+javax.inject-1.jar>alimaven=
+javax.inject-1.pom>alimaven=
+javax.inject-1-sources.jar>alimaven=
+javax.inject-1-javadoc.jar>alimaven=

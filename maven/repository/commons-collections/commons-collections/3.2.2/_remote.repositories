@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 21:37:41 CST 2020
+commons-collections-3.2.2.jar>alimaven=
+commons-collections-3.2.2.pom>alimaven=
+commons-collections-3.2.2-javadoc.jar>alimaven=
+commons-collections-3.2.2-sources.jar>alimaven=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 21:34:52 CST 2020
+javafx.base-11.0.0-20180702.224858-3.pom>sonatype-oss-snapshots=
+javafx.base-11.0.0-20180629.175051-1-win.jar>sonatype-oss-snapshots=
+javafx.base-11.0.0-20180702.224858-3.jar>sonatype-oss-snapshots=
+javafx.base-11.0.0-20180702.223831-2-linux.jar>sonatype-oss-snapshots=
+javafx.base-11.0.0-20180702.224858-3-mac.jar>sonatype-oss-snapshots=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 21:37:21 CST 2020
+guice-4.1.0.jar>alimaven=
+guice-4.1.0.pom>alimaven=
+guice-4.1.0-sources.jar>alimaven=
+guice-4.1.0-javadoc.jar>alimaven=

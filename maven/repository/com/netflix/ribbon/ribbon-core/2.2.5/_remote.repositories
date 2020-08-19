@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 21:35:23 CST 2020
+ribbon-core-2.2.5.jar>alimaven=
+ribbon-core-2.2.5.pom>alimaven=
+ribbon-core-2.2.5-sources.jar>alimaven=
+ribbon-core-2.2.5-javadoc.jar>alimaven=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 21:35:16 CST 2020
+antlr-runtime-3.4-sources.jar>alimaven=
+antlr-runtime-3.4.pom>alimaven=
+antlr-runtime-3.4.jar>alimaven=
+antlr-runtime-3.4-javadoc.jar>alimaven=

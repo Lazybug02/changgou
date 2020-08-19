@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 21:46:29 CST 2020
+asm-5.0.4.jar>alimaven=
+asm-5.0.4-sources.jar>alimaven=
+asm-5.0.4.pom>alimaven=
+asm-5.0.4-javadoc.jar>alimaven=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 29 19:09:53 CST 2020
+guava-18.0.jar>alimaven=
+guava-18.0.pom>alimaven=
+guava-18.0-javadoc.jar>alimaven=
+guava-18.0-sources.jar>alimaven=

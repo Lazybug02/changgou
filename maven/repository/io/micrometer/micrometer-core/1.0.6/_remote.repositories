@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 23 21:38:14 CST 2020
+micrometer-core-1.0.6.jar>alimaven=
+micrometer-core-1.0.6-sources.jar>alimaven=
+micrometer-core-1.0.6-javadoc.jar>alimaven=
+micrometer-core-1.0.6.pom>alimaven=
